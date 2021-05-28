@@ -15,5 +15,13 @@
     "mysql": "^2.18.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrichjevon/crmrestapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aldrichjevon/crmrestapi/issues"
+  },
+  "homepage": "https://github.com/aldrichjevon/crmrestapi#readme",
   "description": ""
 }
